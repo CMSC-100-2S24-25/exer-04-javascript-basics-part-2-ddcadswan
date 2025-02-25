@@ -10,3 +10,4 @@
     Create 2 JavaScript files and name it as index and test. Test index by calling them in a 2nd file called test
 
 ## Key Takeaways from this Exercise 
+    In this exercise, I was able to learn importing functions from a different JavaScript file as well as properly exporting them into another using both CommonJS and ES Modules.
