@@ -2,9 +2,9 @@
 
 
 // Imports
-const fs = require("fs");
-const { v4: uuidv4 } = require("uuid");
-const validator = require("validator");
+import fs from "fs";
+import { v4 as uuidv4 } from "uuid";
+import validator from "validator";
 
 // FUNCTIONS
 function generateUniqueID(firstName, lastName){
@@ -52,4 +52,4 @@ function addAccount(accountInfo){
     }
 }
 
-module.exports = { generateUniqueID, addAccount };
+export { generateUniqueID, addAccount };
