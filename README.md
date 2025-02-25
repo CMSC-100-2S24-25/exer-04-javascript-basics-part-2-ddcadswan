@@ -1,1 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/TP0ZkiLb)
+# Week 4: Exercise 4 JavaScript Basics Part 2
+
+**Name:** Dalton Ken D. Cadsawan <br/>
+**Section:** C-1L <br/>
+**Student number:** 2023 - 65888 <br/>
+**Degree program:** BS Computer Science <br/>
+
+## Description
+**Exercise Title:** Simulate a password validation program in JavaScript <br/>
+    Create 2 JavaScript files and name it as index and test. Test index by calling them in a 2nd file called test
+
+## Key Takeaways from this Exercise 
